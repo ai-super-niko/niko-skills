@@ -14,7 +14,9 @@
       "description": "Niko's skill collection for daily work",
       "source": "./",
       "strict": false,
-      "skills": []
+      "skills": [
+        "./skills/niko-example"
+      ]
     }
   ]
 }
