@@ -1,6 +1,6 @@
 # CLAUDE.md
 
-Niko's skill collection for daily work. Version: **0.1.0**.
+Niko's skill collection for daily work. Version: **0.2.0**.
 
 ## Architecture
 

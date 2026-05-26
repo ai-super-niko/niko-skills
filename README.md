@@ -18,7 +18,12 @@ npx skills add ai-super-niko/niko-skills
 
 ## Skills
 
-No skills yet. See [docs/creating-skills.md](docs/creating-skills.md) for how to add one.
+| Skill | Description |
+|-------|-------------|
+| [niko-example](skills/niko-example/SKILL.md) | A minimal example skill demonstrating the standard skill structure. Use as a template when creating new skills. |
+| [niko-skill-repo](skills/niko-skill-repo/SKILL.md) | Scaffolds a new empty skill repository compatible with Claude Code plugin marketplace and `npx` installation. |
+
+See [docs/creating-skills.md](docs/creating-skills.md) for how to add a new skill.
 
 ## License
 
