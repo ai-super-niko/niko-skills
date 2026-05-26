@@ -1,0 +1,3 @@
+release:
+  target_globs:
+    - skills/*

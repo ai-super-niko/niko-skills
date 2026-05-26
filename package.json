@@ -1,0 +1,11 @@
+{
+  "name": "niko-skills",
+  "private": true,
+  "type": "module",
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "test": "echo \"No tests configured yet\""
+  }
+}
