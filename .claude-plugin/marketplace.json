@@ -15,7 +15,6 @@
       "source": "./",
       "strict": false,
       "skills": [
-        "./skills/niko-example",
         "./skills/niko-skill-repo"
       ]
     }

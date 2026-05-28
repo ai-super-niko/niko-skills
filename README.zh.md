@@ -20,7 +20,6 @@ npx skills add ai-super-niko/niko-skills
 
 | Skill | 说明 |
 |-------|------|
-| [niko-example](skills/niko-example/SKILL.md) | 极简示例 Skill，演示本仓库的标准目录结构，可作为新建 Skill 的模板。 |
 | [niko-skill-repo](skills/niko-skill-repo/SKILL.md) | 一键脚手架：生成一个全新的空 Skill 仓库，开箱即用支持 Claude Code 插件市场与 `npx skills add` 安装。 |
 
 ## 仓库结构
@@ -29,7 +28,6 @@ npx skills add ai-super-niko/niko-skills
 .
 ├── .claude-plugin/marketplace.json   # 插件清单（注册所有 Skill）
 ├── skills/                           # 每个 Skill 一个独立目录
-│   ├── niko-example/
 │   └── niko-skill-repo/
 ├── docs/creating-skills.md           # 新增 Skill 指南
 ├── packages/                         # 共享包预留目录
